@@ -1,0 +1,2 @@
+Command to Compile the program : gcc ymalloc -o yexe
+Command to run the program : ./yexe
